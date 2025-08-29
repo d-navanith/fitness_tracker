@@ -3,7 +3,11 @@
 A **web-based fitness tracking application** that helps users manage their workouts, nutrition, goals, and progress. The system allows individuals to track fitness activities, calculate BMI, log food and water intake, set goals, and monitor progress through reports and photos.
 
 ---
+🎥 Demo Video
 
+Watch the full system walkthrough here:
+👉 "https://youtu.be/vESjppiMb48?si=p1UyWCNSFo1uh8xs"
+---
 ## 🚀 Features
 
 - **User Authentication**

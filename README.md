@@ -93,7 +93,7 @@ Start Apache & MySQL in XAMPP
 
 Access system via browser:
 
-http://localhost/fitness_tracker
+http://localhost:8080/fitness_tracker
 
 🧪 Testing & Maintenance
 

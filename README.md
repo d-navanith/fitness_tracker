@@ -5,6 +5,9 @@ A web-based fitness tracking application that empowers users to manage workouts,
 🎥 Demo Video
 👉 https://youtu.be/vESjppiMb48?si=p1UyWCNSFo1uh8xs
 
+Google form
+👉 https://docs.google.com/forms/d/e/1FAIpQLSc_jbdN9-0CqBMBKd6d_MZvSFWbfaN0kCeUybAjXhshvUf81Q/viewform?usp=sharing&ouid=117909870714974443147
+
 🚀 Features
 
 Secure Authentication with password hashing & session management

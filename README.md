@@ -3,7 +3,7 @@ Fitness Tracker
 A web-based fitness tracking application that empowers users to manage workouts, nutrition, and fitness goals effectively. The system provides BMI calculation, nutrition and water logging, workout planning, progress tracking with photos, and social features like challenges. Built with PHP, MySQL, JavaScript, and CSS, it follows an incremental agile development model ensuring scalability, maintainability, and continuous improvement.
 
 🎥 Demo Video
-👉 https://youtu.be/vESjppiMb48?si=p1UyWCNSFo1uh8xs
+👉 https://youtu.be/RgXpK9RTqa4?si=q8PuRPWpoYBc48f9
 
 Google form
 👉 https://docs.google.com/forms/d/e/1FAIpQLSc_jbdN9-0CqBMBKd6d_MZvSFWbfaN0kCeUybAjXhshvUf81Q/viewform?usp=sharing&ouid=117909870714974443147
